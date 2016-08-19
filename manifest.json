@@ -1,0 +1,15 @@
+{
+  "name": "10° Knowledgebase",
+  "author": {
+    "name": "Jonny Vaughan",
+    "email": "jonny@10degrees.uk",
+    "url": "http://www.10degrees.uk"
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "location": { "zendesk":
+    { "ticket_sidebar": "assets/iframe.html" }
+  },
+  "version": "1.0",
+  "frameworkVersion": "2.0"
+}
