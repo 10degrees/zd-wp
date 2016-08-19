@@ -1,14 +1,13 @@
-# App name
+# Zendesk app for WordPress
 
-[brief description of the app]
+Queries WordPress REST API for articles based on users email address domain name.
 
 ### The following information is displayed:
 
-* info1
-* info2
-* info3
+* Queried domain
+* Articles with hyperlinks to them.
 
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
+Please submit bug reports to [Jonny Vaughan](jonny@10degrees.uk). Pull requests are welcome.
 
 ### Screenshot(s):
-[put your screenshots down here.]
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
