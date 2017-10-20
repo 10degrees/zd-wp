@@ -9,5 +9,5 @@ Queries WordPress REST API for articles based on users email address domain name
 
 Please submit bug reports to [Jonny Vaughan](jonny@10degrees.uk). Pull requests are welcome.
 
-### Screenshot(s):
+### Screenshot:
 ![alt text](https://github.com/10degreesuk/zd-wp/blob/master/assets/screenshot.png?raw=true "Screenshot")
